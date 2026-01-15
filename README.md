@@ -23,19 +23,6 @@ Este projeto é uma **Landing Page temática do Starbucks**. O objetivo principa
 - [x] **Layout Adaptável:** Uso de Media Queries para ajustar o conteúdo em diferentes tamanhos de tela.
 - [x] **Botões Interativos:** Efeitos de `hover` e transições suaves.
 
-## 📂 Estrutura de Arquivos
-
-```bash
-/
-├── index.html          # Estrutura principal
-└── src/
-    ├── css/
-    │   ├── styles.css      # Estilos gerais e reset
-    │   └── variables.css   # Variáveis de cores e fontes
-    ├── js/
-    │   └── script.js       # Lógica do menu e scroll
-    └── images/             # Logos e imagens dos produtos
-
 ## 💻 Desenvolvido por
 
 **Jéssica dos Santos Fernandes**
