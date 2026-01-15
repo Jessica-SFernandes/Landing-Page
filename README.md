@@ -25,7 +25,7 @@ Este projeto é uma **Landing Page temática do Starbucks**. O objetivo principa
 
 ## 💻 Desenvolvido por
 
-**Jéssica dos Santos Fernandes**
+**Jéssica Fernandes**
 
 Transição de carreira para a área de Tecnologia e estudante de Ciência da Computação.
 
