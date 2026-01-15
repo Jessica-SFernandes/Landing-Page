@@ -34,7 +34,7 @@ Transição de carreira para a área de Tecnologia e estudante de Ciência da Co
 
 ---
 
-### 🤝 Créditos e Referência
+# 🤝 Créditos e Referência
 
 Este projeto foi desenvolvido para fins de estudo, seguindo o tutorial da **Larissa Kich**. Todos os créditos pelo design, lógica e didática pertencem a ela.
 
